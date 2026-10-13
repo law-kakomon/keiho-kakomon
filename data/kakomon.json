@@ -1,0 +1,3920 @@
+{
+ "generated": true,
+ "sources": {
+  "同志社": "https://law-school.doshisha.ac.jp/entrance_ex/question/",
+  "立命館": "https://www.ritsumei.ac.jp/lawschool/admission/past.html/",
+  "慶應": "https://www.ls.keio.ac.jp/nyushi/examination.html",
+  "関学": "https://www.kwansei.ac.jp/lawschool/admissions/kakomon/",
+  "中央": "https://www.chuo-u.ac.jp/academics/pro_graduateschool/law/orientation/selection/past/"
+ },
+ "taxonomy": [
+  {
+   "name": "総論",
+   "count": 101,
+   "subs": [
+    {
+     "name": "罪刑法定主義・適用範囲",
+     "key": "総論/罪刑法定主義・適用範囲",
+     "count": 1
+    },
+    {
+     "name": "構成要件・因果関係・不作為犯",
+     "key": "総論/構成要件・因果関係・不作為犯",
+     "count": 5
+    },
+    {
+     "name": "違法性阻却（正当防衛・緊急避難）",
+     "key": "総論/違法性阻却（正当防衛・緊急避難）",
+     "count": 22
+    },
+    {
+     "name": "責任（責任能力・故意・錯誤）",
+     "key": "総論/責任（責任能力・故意・錯誤）",
+     "count": 22
+    },
+    {
+     "name": "未遂・中止犯",
+     "key": "総論/未遂・中止犯",
+     "count": 9
+    },
+    {
+     "name": "共犯",
+     "key": "総論/共犯",
+     "count": 34
+    },
+    {
+     "name": "罪数",
+     "key": "総論/罪数",
+     "count": 8
+    },
+    {
+     "name": "刑罰論",
+     "key": "総論/刑罰論",
+     "count": 0
+    }
+   ]
+  },
+  {
+   "name": "個人的法益",
+   "count": 130,
+   "subs": [
+    {
+     "name": "生命・身体に対する罪",
+     "key": "個人的法益/生命・身体に対する罪",
+     "count": 40
+    },
+    {
+     "name": "自由・住居に対する罪",
+     "key": "個人的法益/自由・住居に対する罪",
+     "count": 9
+    },
+    {
+     "name": "名誉・信用・業務に対する罪",
+     "key": "個人的法益/名誉・信用・業務に対する罪",
+     "count": 2
+    },
+    {
+     "name": "窃盗・強盗",
+     "key": "個人的法益/窃盗・強盗",
+     "count": 39
+    },
+    {
+     "name": "詐欺・恐喝",
+     "key": "個人的法益/詐欺・恐喝",
+     "count": 15
+    },
+    {
+     "name": "横領・背任",
+     "key": "個人的法益/横領・背任",
+     "count": 21
+    },
+    {
+     "name": "盗品等・毀棄",
+     "key": "個人的法益/盗品等・毀棄",
+     "count": 4
+    }
+   ]
+  },
+  {
+   "name": "社会的法益",
+   "count": 22,
+   "subs": [
+    {
+     "name": "放火・失火",
+     "key": "社会的法益/放火・失火",
+     "count": 12
+    },
+    {
+     "name": "文書偽造",
+     "key": "社会的法益/文書偽造",
+     "count": 10
+    },
+    {
+     "name": "通貨・有価証券・支払用カード",
+     "key": "社会的法益/通貨・有価証券・支払用カード",
+     "count": 0
+    },
+    {
+     "name": "そのほかの社会的法益",
+     "key": "社会的法益/そのほかの社会的法益",
+     "count": 0
+    }
+   ]
+  },
+  {
+   "name": "国家的法益",
+   "count": 8,
+   "subs": [
+    {
+     "name": "公務執行妨害",
+     "key": "国家的法益/公務執行妨害",
+     "count": 2
+    },
+    {
+     "name": "犯人蔵匿・証拠隠滅",
+     "key": "国家的法益/犯人蔵匿・証拠隠滅",
+     "count": 6
+    },
+    {
+     "name": "偽証・虚偽告訴",
+     "key": "国家的法益/偽証・虚偽告訴",
+     "count": 0
+    },
+    {
+     "name": "賄賂",
+     "key": "国家的法益/賄賂",
+     "count": 0
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "dos-2027-zenki",
+   "univ": "同志社",
+   "year": 2027,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2027_zenki_mondai_keiho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2027_zenki_kaisetsu_keiho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2027_zenki_kaitou_keiho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "傷害罪（204条）",
+    "被害者の承諾と違法性阻却",
+    "故意（38条）"
+   ],
+   "articles": [
+    38,
+    204
+   ],
+   "hanrei": [
+    "最決昭和55年11月13日",
+    "最決平成16年11月30日",
+    "最決昭和61年6月9日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2027-zenki",
+   "univ": "立命館",
+   "year": 2027,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-27z_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2027-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/詐欺・恐喝",
+    "個人的法益/窃盗・強盗",
+    "個人的法益/横領・背任"
+   ],
+   "topics": [
+    "保護責任者遺棄（218条）・不保護致死（219条）と因果関係",
+    "強盗（236条）",
+    "横領（252条）",
+    "詐欺（246条）・恐喝（249条）"
+   ],
+   "articles": [
+    177,
+    218,
+    219,
+    236,
+    246,
+    249,
+    252
+   ],
+   "hanrei": [
+    "最決平成元年12月15日",
+    "最判平成30年3月19日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2026-zenki",
+   "univ": "同志社",
+   "year": 2026,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2026_zenki_mondai_keiho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2026_zenki_kaisetsu_keiho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2026_zenki_kaitou_keiho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/責任（責任能力・故意・錯誤）",
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "個人的法益/横領・背任",
+    "個人的法益/生命・身体に対する罪"
+   ],
+   "topics": [
+    "心神喪失・心神耗弱（39条）",
+    "原因において自由な行為",
+    "正当防衛（36条）",
+    "背任罪（247条）",
+    "暴行罪（208条）"
+   ],
+   "articles": [
+    36,
+    39,
+    208,
+    247
+   ],
+   "hanrei": [
+    "最決昭和30年7月7日",
+    "最判昭和30年4月8日",
+    "最決平成29年4月26日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2026-koki",
+   "univ": "同志社",
+   "year": 2026,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2026koki_mondai_keihou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2026koki_kaisetsu_keihou.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2026koki_kaitou_keihou.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "総論/共犯",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "強盗利得罪（236条2項）",
+    "強盗殺人（240条後段）",
+    "窃盗罪（235条）",
+    "異なる構成要件間の共同正犯（60条）",
+    "抽象的事実の錯誤"
+   ],
+   "articles": [
+    60,
+    235,
+    236,
+    240
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2026-zenki",
+   "univ": "立命館",
+   "year": 2026,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-26z_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2026-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "個人的法益/詐欺・恐喝"
+   ],
+   "topics": [
+    "正当防衛（36条）",
+    "自招侵害",
+    "詐欺罪（246条）"
+   ],
+   "articles": [
+    36,
+    246
+   ],
+   "hanrei": [
+    "最判昭和46年11月16日",
+    "最決昭和52年7月21日",
+    "最決平成29年4月26日",
+    "最決平成20年5月20日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2026-chuki",
+   "univ": "立命館",
+   "year": 2026,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-26c_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2026-c.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/自由・住居に対する罪",
+    "個人的法益/横領・背任"
+   ],
+   "topics": [
+    "逮捕監禁致死傷（221条）",
+    "背任罪（247条）"
+   ],
+   "articles": [
+    221,
+    247
+   ],
+   "hanrei": [
+    "最決平成18年3月27日",
+    "最決平成16年10月19日",
+    "最決平成15年7月16日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2026-koki",
+   "univ": "立命館",
+   "year": 2026,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-26k_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2026-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/未遂・中止犯",
+    "総論/共犯",
+    "社会的法益/文書偽造",
+    "個人的法益/生命・身体に対する罪"
+   ],
+   "topics": [
+    "実行の着手・中止犯（43条）",
+    "共同正犯（60条）・教唆（61条）",
+    "予備罪の共同正犯（自己予備目的）",
+    "名義人の同意がある場合の文書偽造（159条）",
+    "殺人（199条）"
+   ],
+   "articles": [
+    43,
+    60,
+    61,
+    159,
+    199
+   ],
+   "hanrei": [
+    "最判昭和37年11月8日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kgu-2026-a",
+   "univ": "関学",
+   "year": 2026,
+   "term": "A日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/2026A_keho.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/横領・背任",
+    "総論/未遂・中止犯"
+   ],
+   "topics": [
+    "背任罪（247条）における財産上の損害",
+    "殺人罪の中止犯（43条ただし書）"
+   ],
+   "articles": [
+    43,
+    247
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kgu-2026-b",
+   "univ": "関学",
+   "year": 2026,
+   "term": "B日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/2026B_keiho.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/違法性阻却（正当防衛・緊急避難）"
+   ],
+   "topics": [
+    "正当防衛（36条）",
+    "防衛行為から第三者に生じた結果の処理"
+   ],
+   "articles": [
+    36
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kgu-2026-c",
+   "univ": "関学",
+   "year": 2026,
+   "term": "C日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/2026C_keiho.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "総論/構成要件・因果関係・不作為犯",
+    "総論/共犯"
+   ],
+   "topics": [
+    "不作為による殺人罪",
+    "不作為による幇助",
+    "保護責任者遺棄致死（219条）"
+   ],
+   "articles": [
+    219
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kei-2026-honshi",
+   "univ": "慶應",
+   "year": 2026,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/75df5aef1e20f48cc7fbf818b4f529c7029236c6bd318378771a764cd29fb0b2",
+   "kaisetsu": "https://www.keio.ac.jp/files/5d2bc1b97adaa723e9762dac8da067c5170963dfb6e9f0bcc0d37f64cc7dd669",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（憲法・民法・刑法）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/罪数",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "観念的競合（54条）",
+    "故意（38条）",
+    "事実の抽出と評価"
+   ],
+   "articles": [
+    38,
+    54
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "chu-2026-ronjutsu",
+   "univ": "中央",
+   "year": 2026,
+   "term": "論述式",
+   "course": "法学既修者コース",
+   "mondai": "https://www.chuo-u.ac.jp/uploads/2026/03/academics_pro_graduateschool_law_orientation_selection_past_2026_02.pdf",
+   "kaisetsu": "https://www.chuo-u.ac.jp/uploads/2026/03/academics_pro_graduateschool_law_orientation_selection_past_2026_07.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題の意図",
+   "kaisetsuNote": "全科目まとめの「出題の意図及び評価の視点」。刑法の節を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗"
+   ],
+   "topics": [
+    "強盗罪（236条）",
+    "反抗を抑圧する程度の暴行・脅迫"
+   ],
+   "articles": [
+    236
+   ],
+   "hanrei": [
+    "高判平成元年2月27日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2025-zenki",
+   "univ": "同志社",
+   "year": 2025,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2025zenki_mondai_keihou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2025zenki_kaisetsu_keihou.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2025zenki_kaitou_keihou.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "個人的法益/横領・背任",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "窃盗罪（235条）と占有",
+    "占有離脱物横領（254条）",
+    "責任年齢（41条）"
+   ],
+   "articles": [
+    41,
+    235,
+    254
+   ],
+   "hanrei": [
+    "最決平成16年8月25日",
+    "最決昭和61年6月9日",
+    "最決昭和58年9月21日",
+    "最決平成13年10月25日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2025-koki",
+   "univ": "同志社",
+   "year": 2025,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2025koki_mondai_keihou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2025koki_kaisetsu_keihou.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2025koki_kaitou_keihou.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/共犯",
+    "個人的法益/窃盗・強盗",
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/横領・背任",
+    "総論/罪数"
+   ],
+   "topics": [
+    "身分犯と共犯（65条）",
+    "承継的共同正犯",
+    "事後強盗（238条）・強盗致死（240条）",
+    "窃盗罪（235条）",
+    "占有離脱物横領（254条）",
+    "併合罪（45条）"
+   ],
+   "articles": [
+    45,
+    60,
+    65,
+    205,
+    208,
+    222,
+    235,
+    238,
+    240,
+    254
+   ],
+   "hanrei": [
+    "最判昭和41年4月8日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2025-zenki",
+   "univ": "立命館",
+   "year": 2025,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-25z_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2025-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "総論/罪刑法定主義・適用範囲",
+    "個人的法益/生命・身体に対する罪",
+    "総論/共犯"
+   ],
+   "topics": [
+    "緊急避難（37条）",
+    "国外犯（5条）",
+    "業務上過失致死傷（211条）・過失致死（210条）",
+    "身分犯と共犯（65条）",
+    "自招侵害"
+   ],
+   "articles": [
+    5,
+    37,
+    65,
+    177,
+    210,
+    211
+   ],
+   "hanrei": [
+    "最決平成20年5月20日",
+    "最判昭和32年11月8日",
+    "最決平成22年7月29日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2025-chuki",
+   "univ": "立命館",
+   "year": 2025,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-25c_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2025-c.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "国家的法益/犯人蔵匿・証拠隠滅",
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/窃盗・強盗",
+    "総論/罪数",
+    "総論/未遂・中止犯",
+    "総論/共犯"
+   ],
+   "topics": [
+    "犯人蔵匿・隠避（103条）",
+    "殺人（199条）・同未遂（203条）",
+    "窃盗（235条）・事後強盗（238条）・強盗致死傷（240条）",
+    "過失致死（210条）・業務上過失致死傷（211条）",
+    "併合罪（45条）",
+    "共同正犯（60条）"
+   ],
+   "articles": [
+    43,
+    45,
+    60,
+    103,
+    199,
+    203,
+    210,
+    211,
+    235,
+    238,
+    240
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2025-koki",
+   "univ": "立命館",
+   "year": 2025,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-25k_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2025-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/共犯",
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "個人的法益/生命・身体に対する罪"
+   ],
+   "topics": [
+    "共同正犯（60条）・教唆（61条）",
+    "共犯からの離脱",
+    "正当防衛（36条）",
+    "殺人予備（201条）"
+   ],
+   "articles": [
+    36,
+    60,
+    61,
+    201
+   ],
+   "hanrei": [
+    "大判大正4年5月21日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kgu-2025-a",
+   "univ": "関学",
+   "year": 2025,
+   "term": "A日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/CriminalLaw_Solutions_2025A.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "総論/共犯"
+   ],
+   "topics": [
+    "窃盗（235条）・強盗（236条）",
+    "共犯関係の射程",
+    "共犯の過剰",
+    "共同正犯（60条）"
+   ],
+   "articles": [
+    60,
+    235,
+    236
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kgu-2025-b",
+   "univ": "関学",
+   "year": 2025,
+   "term": "B日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/CriminalLaw_Solutions_2025B.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "社会的法益/放火・失火"
+   ],
+   "topics": [
+    "殺人罪の成否（殺意の有無）",
+    "非現住建造物等放火罪の成否",
+    "結果的加重犯"
+   ],
+   "articles": [],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kgu-2025-c",
+   "univ": "関学",
+   "year": 2025,
+   "term": "C日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/CriminalLaw_Solutions_2025C.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "総論/共犯"
+   ],
+   "topics": [
+    "強盗（236条）・事後強盗（238条）・強盗致傷（240条）",
+    "強盗傷人罪か傷害罪か",
+    "共同正犯（60条）",
+    "身分犯と共犯（65条）"
+   ],
+   "articles": [
+    60,
+    65,
+    236,
+    238,
+    240
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kei-2025-honshi",
+   "univ": "慶應",
+   "year": 2025,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/e6e09f23f0aa1401a40a6f7ad9148888342a5618639514e0fc2787e18647eae7",
+   "kaisetsu": "https://www.keio.ac.jp/files/6b64898e14f858f6bb1bfacc2717e507b0d72fcdca68411eb3c2c49255b19b96",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（憲法・民法・刑法）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "国家的法益/公務執行妨害",
+    "総論/構成要件・因果関係・不作為犯"
+   ],
+   "topics": [
+    "窃盗（235条）・強盗（236条）・事後強盗（238条）・強盗致傷（240条）",
+    "未遂（243条）",
+    "公務執行妨害（95条）",
+    "致傷結果との因果関係"
+   ],
+   "articles": [
+    95,
+    235,
+    236,
+    238,
+    240,
+    243
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "chu-2025-ronjutsu",
+   "univ": "中央",
+   "year": 2025,
+   "term": "論述式",
+   "course": "法学既修者コース",
+   "mondai": "https://www.chuo-u.ac.jp/uploads/2025/04/academics_pro_graduateschool_law_orientation_selection_past_2025_02.pdf",
+   "kaisetsu": "https://www.chuo-u.ac.jp/uploads/2025/04/academics_pro_graduateschool_law_orientation_selection_past_2025_07_20250414.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題の意図",
+   "kaisetsuNote": "全科目まとめの「出題の意図及び評価の視点」。刑法の節を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/共犯",
+    "個人的法益/窃盗・強盗",
+    "個人的法益/詐欺・恐喝"
+   ],
+   "topics": [
+    "窃盗罪における占有の移転（商品を棚に隠した行為）",
+    "脅迫・恐喝の共同正犯",
+    "身分犯と共犯（65条）"
+   ],
+   "articles": [
+    65
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2024-zenki",
+   "univ": "同志社",
+   "year": 2024,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2024zenki_mondai_keihou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2024zenki_kaisetsu_keihou.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2024zenki_kaitou_keihou.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/詐欺・恐喝",
+    "個人的法益/生命・身体に対する罪",
+    "総論/違法性阻却（正当防衛・緊急避難）"
+   ],
+   "topics": [
+    "詐欺罪（246条）",
+    "恐喝罪（249条）と権利行使",
+    "傷害致死罪（205条）",
+    "殺人罪（199条）・同未遂（203条）",
+    "違法性阻却の有無"
+   ],
+   "articles": [
+    199,
+    203,
+    205,
+    246,
+    249
+   ],
+   "hanrei": [
+    "最決昭和30年7月7日",
+    "最判昭和30年10月14日",
+    "最判昭和46年6月17日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2024-koki",
+   "univ": "同志社",
+   "year": 2024,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2024koki_mondai_keiho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2024koki_kaisetsu_keiho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2024koki_kaitou_keiho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/詐欺・恐喝",
+    "個人的法益/窃盗・強盗",
+    "社会的法益/文書偽造",
+    "総論/共犯"
+   ],
+   "topics": [
+    "自殺関与・同意殺人（202条）",
+    "殺人未遂（203条）",
+    "詐欺罪・窃盗罪の共同正犯",
+    "有印私文書偽造の共同正犯",
+    "機械に対する欺罔と窃盗罪"
+   ],
+   "articles": [
+    202,
+    203
+   ],
+   "hanrei": [
+    "最決昭和56年4月8日",
+    "最決昭和55年11月13日",
+    "最決平成14年2月8日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2024-zenki",
+   "univ": "立命館",
+   "year": 2024,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-24z_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2024-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "社会的法益/放火・失火",
+    "個人的法益/窃盗・強盗",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "同意殺人（202条）",
+    "建造物等以外放火（110条2項）における「公共の危険」の認識の要否",
+    "自己の所有物の特例（116条）",
+    "殺人（199条）",
+    "窃盗（235条）と占有（242条）"
+   ],
+   "articles": [
+    2,
+    38,
+    108,
+    109,
+    110,
+    116,
+    199,
+    202,
+    235,
+    242
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2024-chuki",
+   "univ": "立命館",
+   "year": 2024,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-24c_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2024-c.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/横領・背任",
+    "個人的法益/窃盗・強盗"
+   ],
+   "topics": [
+    "横領（252条）・業務上横領（253条）・占有離脱物横領（254条）",
+    "使用窃盗と不法領得の意思",
+    "占有（242条）"
+   ],
+   "articles": [
+    242,
+    252,
+    253,
+    254
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2024-koki",
+   "univ": "立命館",
+   "year": 2024,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-24k_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2024-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/詐欺・恐喝",
+    "個人的法益/自由・住居に対する罪",
+    "総論/共犯",
+    "総論/罪数"
+   ],
+   "topics": [
+    "同時傷害の特例（207条）",
+    "詐欺罪（246条）・恐喝罪（249条）",
+    "住居侵入（130条）",
+    "共犯の錯誤",
+    "観念的競合（54条）・併合罪（45条）"
+   ],
+   "articles": [
+    45,
+    54,
+    130,
+    207,
+    236,
+    246,
+    249
+   ],
+   "hanrei": [
+    "最決平成28年3月24日",
+    "最決令和2年9月30日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kgu-2024-a",
+   "univ": "関学",
+   "year": 2024,
+   "term": "A日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/CriminalLaw_Solutions_2024A.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/横領・背任",
+    "個人的法益/生命・身体に対する罪",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "横領罪（252条）・業務上横領（253条）・占有離脱物横領（254条）",
+    "不法領得の意思（利用処分意思）",
+    "遺棄罪（217条・218条）と故意",
+    "死体遺棄（190条）"
+   ],
+   "articles": [
+    38,
+    190,
+    217,
+    218,
+    252,
+    253,
+    254
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kgu-2024-b",
+   "univ": "関学",
+   "year": 2024,
+   "term": "B日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/CriminalLaw_Solutions_2024B.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "総論/共犯",
+    "個人的法益/生命・身体に対する罪"
+   ],
+   "topics": [
+    "窃盗未遂・既遂の区別",
+    "窃盗の共同正犯",
+    "傷害罪の共同正犯"
+   ],
+   "articles": [],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kgu-2024-c",
+   "univ": "関学",
+   "year": 2024,
+   "term": "C日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/CriminalLaw_Solutions_2024C.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/横領・背任",
+    "総論/共犯"
+   ],
+   "topics": [
+    "背任罪の成立要件",
+    "背任罪の共犯（借り手の責任）"
+   ],
+   "articles": [],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kei-2024-honshi",
+   "univ": "慶應",
+   "year": 2024,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/e6f3f0bfb29b1a9b6de77c7496e09485c2b5a88a14a11158bd16ba68644941f0",
+   "kaisetsu": "https://www.keio.ac.jp/files/6e718879020f005c6743b1e52b30f0ed58f3b492a7c11d5440fb90b30f3ab6dc",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（憲法・民法・刑法）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/違法性阻却（正当防衛・緊急避難）"
+   ],
+   "topics": [
+    "正当防衛（36条）の要件",
+    "防衛の意思・相当性"
+   ],
+   "articles": [
+    36
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "chu-2024-ronjutsu",
+   "univ": "中央",
+   "year": 2024,
+   "term": "論述式",
+   "course": "法学既修者コース",
+   "mondai": "https://www.chuo-u.ac.jp/uploads/2024/05/academics_pro_graduateschool_law_orientation_selection_past_2024_02.pdf",
+   "kaisetsu": "https://www.chuo-u.ac.jp/uploads/2024/05/academics_pro_graduateschool_law_orientation_selection_past_2024_07.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題の意図",
+   "kaisetsuNote": "全科目まとめの「出題の意図及び評価の視点」。刑法の節を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/自由・住居に対する罪"
+   ],
+   "topics": [
+    "住居侵入罪の成否",
+    "刑法総論・各論の基礎的理解"
+   ],
+   "articles": [],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2023-zenki",
+   "univ": "同志社",
+   "year": 2023,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2023_mondai_keiho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2023_kaisetsu_keiho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2023_kaitou_keiho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "総論/共犯",
+    "総論/責任（責任能力・故意・錯誤）",
+    "個人的法益/生命・身体に対する罪"
+   ],
+   "topics": [
+    "窃盗罪（235条）・事後強盗（238条）・強盗致死（240条）",
+    "教唆の因果性",
+    "抽象的事実の錯誤",
+    "共同正犯（60条）",
+    "傷害罪（204条）"
+   ],
+   "articles": [
+    60,
+    204,
+    235,
+    238,
+    240,
+    243
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2023-koki",
+   "univ": "同志社",
+   "year": 2023,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2023koki_mondai_keiho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2023koki_kaisetsu_keiho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2023koki_kaitou_keiho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/共犯",
+    "個人的法益/横領・背任",
+    "個人的法益/生命・身体に対する罪",
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "総論/罪数"
+   ],
+   "topics": [
+    "傷害罪の共同正犯（60条・204条）",
+    "横領罪（252条）",
+    "正当防衛の成否（36条）",
+    "身分犯と共犯（65条）",
+    "併合罪（45条）"
+   ],
+   "articles": [
+    36,
+    45,
+    60,
+    65,
+    204,
+    252
+   ],
+   "hanrei": [
+    "最決平成4年6月5日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2023-zenki",
+   "univ": "立命館",
+   "year": 2023,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-23z_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2023-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/未遂・中止犯",
+    "総論/責任（責任能力・故意・錯誤）",
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "社会的法益/放火・失火",
+    "個人的法益/窃盗・強盗"
+   ],
+   "topics": [
+    "実行の着手・中止犯（43条）",
+    "予備罪に中止犯の規定を準用できるか",
+    "不法領得の意思",
+    "正当防衛（36条）・緊急避難（37条）",
+    "現住建造物等放火（108条）"
+   ],
+   "articles": [
+    36,
+    37,
+    38,
+    43,
+    108
+   ],
+   "hanrei": [
+    "最決平成9年10月21日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2023-chuki",
+   "univ": "立命館",
+   "year": 2023,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-23c_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2023-c.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/共犯",
+    "総論/責任（責任能力・故意・錯誤）",
+    "個人的法益/生命・身体に対する罪",
+    "社会的法益/放火・失火",
+    "個人的法益/自由・住居に対する罪"
+   ],
+   "topics": [
+    "道具として利用した者の罪責（間接正犯・共犯）",
+    "事実の錯誤",
+    "殺人罪の成否",
+    "建造物等以外放火",
+    "住居侵入（130条）"
+   ],
+   "articles": [
+    130
+   ],
+   "hanrei": [
+    "最判昭和58年4月8日",
+    "最判昭和28年12月14日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2023-koki",
+   "univ": "立命館",
+   "year": 2023,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-23k_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2023-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/共犯",
+    "個人的法益/窃盗・強盗",
+    "個人的法益/横領・背任",
+    "個人的法益/生命・身体に対する罪",
+    "総論/違法性阻却（正当防衛・緊急避難）"
+   ],
+   "topics": [
+    "身分犯と共犯（65条）",
+    "強盗（236条）・強盗致死傷（240条）",
+    "占有（242条）",
+    "横領（252条）・業務上横領（253条）",
+    "傷害（204条）",
+    "正当防衛（36条）"
+   ],
+   "articles": [
+    36,
+    65,
+    204,
+    236,
+    240,
+    242,
+    252,
+    253
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kgu-2023-a",
+   "univ": "関学",
+   "year": 2023,
+   "term": "A日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/CriminalLaw_Solutions_2023A.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "個人的法益/詐欺・恐喝",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "強盗罪（236条）",
+    "親族間の犯罪に関する特例（244条・251条）",
+    "故意（38条）",
+    "電気窃盗（245条）"
+   ],
+   "articles": [
+    38,
+    236,
+    245,
+    251
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kgu-2023-b",
+   "univ": "関学",
+   "year": 2023,
+   "term": "B日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/CriminalLaw_Solutions_2023B.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/盗品等・毀棄",
+    "個人的法益/横領・背任"
+   ],
+   "topics": [
+    "盗品等関与罪（256条）",
+    "横領罪（252条）",
+    "本犯との関係"
+   ],
+   "articles": [
+    252,
+    256
+   ],
+   "hanrei": [
+    "最決昭和50年6月12日",
+    "最判昭和36年10月10日",
+    "最決平成14年7月1日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kgu-2023-c",
+   "univ": "関学",
+   "year": 2023,
+   "term": "C日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/Criminal_Law_Issues_2023C.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/詐欺・恐喝"
+   ],
+   "topics": [
+    "詐欺罪の基本的要件（欺罔・錯誤・処分行為・移転）"
+   ],
+   "articles": [],
+   "hanrei": [
+    "最判平成26年3月28日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2023-honshi",
+   "univ": "慶應",
+   "year": 2023,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/41c45e8769dad5e4560da9268556a4bd1ede4051a3b398463f6d4be8697bf04e",
+   "kaisetsu": "https://www.keio.ac.jp/files/6b9b00553614c4dc9d67c89bda1a2471b9dc876e62c9aa3d112ffb6b8532c5e2",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（科目名の記載なし）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/共犯",
+    "社会的法益/放火・失火"
+   ],
+   "topics": [
+    "身分犯と共犯（65条）",
+    "建造物等以外放火（110条）"
+   ],
+   "articles": [
+    65,
+    110
+   ],
+   "hanrei": [
+    "最判昭和60年3月28日",
+    "最決平成15年4月14日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2022-zenki",
+   "univ": "同志社",
+   "year": 2022,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2022_mondai_keiho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2022_kaisetsu_keiho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2022_kaitou_keiho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "社会的法益/放火・失火",
+    "個人的法益/窃盗・強盗",
+    "総論/共犯",
+    "総論/責任（責任能力・故意・錯誤）",
+    "総論/罪数"
+   ],
+   "topics": [
+    "現住建造物等放火（108条）・非現住建造物等放火（109条）",
+    "抽象的事実の錯誤",
+    "共犯関係の解消",
+    "強盗（236条）・強盗致死（240条）",
+    "併合罪（45条）"
+   ],
+   "articles": [
+    38,
+    45,
+    60,
+    108,
+    109,
+    112,
+    236,
+    240
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2022-koki",
+   "univ": "同志社",
+   "year": 2022,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "http://doshisha-law.kir.jp/stg/wp-content/uploads/2022/04/2022_mondai_keihou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2022_kaisetsu_keihou2.pdf",
+   "kaitou": "http://doshisha-law.kir.jp/stg/wp-content/uploads/2022/04/2022_keihout2.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "http",
+    "kaisetsu": null,
+    "kaitou": "http"
+   },
+   "basis": "解説",
+   "units": [
+    "総論/違法性阻却（正当防衛・緊急避難）"
+   ],
+   "topics": [
+    "正当防衛の成否",
+    "防衛行為の相当性"
+   ],
+   "articles": [],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2022-zenki",
+   "univ": "立命館",
+   "year": 2022,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-22z_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2022-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/未遂・中止犯",
+    "個人的法益/詐欺・恐喝",
+    "社会的法益/文書偽造"
+   ],
+   "topics": [
+    "実行の着手・中止犯（43条）",
+    "詐欺罪（246条）",
+    "私文書偽造・同行使（159条・161条）"
+   ],
+   "articles": [
+    43,
+    159,
+    161,
+    246
+   ],
+   "hanrei": [
+    "最決平成16年3月22日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2022-chuki",
+   "univ": "立命館",
+   "year": 2022,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-22c_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2022-c.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/横領・背任"
+   ],
+   "topics": [
+    "強盗（236条）・強盗致死傷（240条）・事後強盗（238条）",
+    "死者の占有（242条）",
+    "殺人（199条）",
+    "保護責任者遺棄致死（219条）と救助可能性",
+    "横領（252条・253条）・背任（247条）"
+   ],
+   "articles": [
+    199,
+    219,
+    235,
+    236,
+    238,
+    240,
+    242,
+    243,
+    247,
+    252,
+    253
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2022-koki",
+   "univ": "立命館",
+   "year": 2022,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-22k_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2022-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "社会的法益/放火・失火",
+    "総論/責任（責任能力・故意・錯誤）",
+    "個人的法益/窃盗・強盗"
+   ],
+   "topics": [
+    "建造物等以外放火（110条）",
+    "非現住建造物等放火（109条）",
+    "自己の所有物の特例（115条・116条）",
+    "「公共の危険」の認識の要否",
+    "錯誤（38条）"
+   ],
+   "articles": [
+    2,
+    38,
+    108,
+    109,
+    110,
+    116,
+    240
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kgu-2022-a",
+   "univ": "関学",
+   "year": 2022,
+   "term": "A日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/Criminal_Law_Issues_2022A.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "個人的法益/横領・背任"
+   ],
+   "topics": [
+    "殺人罪（199条）・同意殺人（202条）",
+    "正当防衛（36条）と共犯者への影響",
+    "占有離脱物横領（254条）"
+   ],
+   "articles": [
+    36,
+    199,
+    202,
+    254
+   ],
+   "hanrei": [
+    "最決平成21年12月7日",
+    "最決平成13年10月25日",
+    "最決平成4年6月5日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kgu-2022-b",
+   "univ": "関学",
+   "year": 2022,
+   "term": "B日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/Criminal_Law_Issues_2022B.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪"
+   ],
+   "topics": [
+    "傷害致死罪（205条）",
+    "因果関係"
+   ],
+   "articles": [
+    205
+   ],
+   "hanrei": [
+    "大判大正2年7月9日",
+    "大判昭和3年3月9日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kgu-2022-c",
+   "univ": "関学",
+   "year": 2022,
+   "term": "C日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/Criminal_Law_Issues_2022C.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/名誉・信用・業務に対する罪",
+    "国家的法益/公務執行妨害"
+   ],
+   "topics": [
+    "業務妨害罪（233条・234条）",
+    "公務に対する業務妨害罪の成否",
+    "公務執行妨害（95条）との関係"
+   ],
+   "articles": [
+    95,
+    233,
+    234
+   ],
+   "hanrei": [
+    "最決昭和62年3月12日",
+    "最決平成12年2月17日",
+    "最決平成14年9月30日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kgu-2022-d",
+   "univ": "関学",
+   "year": 2022,
+   "term": "D日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/Criminal%20Law%20Q%26A%202022D.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪"
+   ],
+   "topics": [
+    "傷害罪（204条）の構成要件該当性",
+    "無形的方法による傷害",
+    "傷害の故意",
+    "暴行罪（208条）"
+   ],
+   "articles": [
+    204,
+    208
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kei-2022-honshi",
+   "univ": "慶應",
+   "year": 2022,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/b638f5495bdb39a398cd3e6ab6496bc1de5101dc3af16ad3710b3ff17753d98f",
+   "kaisetsu": "https://www.keio.ac.jp/files/872119430852e7b5ed47c5e9f58d7230ec6dc480d6843308606a46ea21c5dbd4",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（憲法・民法・刑法）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/横領・背任",
+    "社会的法益/文書偽造",
+    "総論/共犯",
+    "国家的法益/犯人蔵匿・証拠隠滅"
+   ],
+   "topics": [
+    "殺人（199条）・同未遂（203条）・傷害（204条）",
+    "横領（254条）・業務上横領（253条）",
+    "私文書偽造・同行使（159条・161条）",
+    "教唆（61条）",
+    "証拠隠滅（104条）",
+    "住居侵入（130条）・窃盗（235条）",
+    "賄賂（197条）"
+   ],
+   "articles": [
+    61,
+    104,
+    130,
+    159,
+    161,
+    197,
+    199,
+    203,
+    204,
+    235,
+    253,
+    254
+   ],
+   "hanrei": [
+    "最判昭和41年4月8日",
+    "最決昭和55年11月13日",
+    "最判平成16年12月10日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2021-zenki",
+   "univ": "同志社",
+   "year": 2021,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2021_mondai_keiho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2021_kaisetsu_keiho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2021_kaitou_keiho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "総論/共犯",
+    "個人的法益/盗品等・毀棄",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "強盗致死（240条）・事後強盗（238条）・窃盗（235条）",
+    "共同正犯の成否（60条）",
+    "共同正犯と錯誤",
+    "器物損壊（261条）"
+   ],
+   "articles": [
+    60,
+    235,
+    238,
+    240,
+    243,
+    261
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2021-koki",
+   "univ": "同志社",
+   "year": 2021,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2021_mondai_keihou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2021_kaisetsu_keihou2.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2021_keihout2.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "総論/共犯",
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/窃盗・強盗",
+    "個人的法益/横領・背任",
+    "総論/罪数"
+   ],
+   "topics": [
+    "正当防衛・過剰防衛（36条1項・2項）",
+    "共同正犯（60条）",
+    "傷害致死（205条）",
+    "窃盗罪か占有離脱物横領罪か（235条・254条）",
+    "過失致死（210条）",
+    "併合罪（45条）"
+   ],
+   "articles": [
+    36,
+    45,
+    60,
+    205,
+    210,
+    235,
+    254
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2021-zenki",
+   "univ": "立命館",
+   "year": 2021,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-21z_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2021-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "社会的法益/放火・失火",
+    "個人的法益/生命・身体に対する罪",
+    "総論/責任（責任能力・故意・錯誤）",
+    "国家的法益/犯人蔵匿・証拠隠滅",
+    "総論/共犯"
+   ],
+   "topics": [
+    "現住建造物等放火（108条）・非現住建造物等放火（109条）",
+    "延焼（115条）",
+    "殺人（199条）・同意殺人（202条）",
+    "死体損壊（190条）",
+    "証拠隠滅（104条）",
+    "身分犯と共犯（65条）"
+   ],
+   "articles": [
+    38,
+    65,
+    104,
+    108,
+    109,
+    115,
+    190,
+    199,
+    202,
+    246
+   ],
+   "hanrei": [
+    "最判昭和24年3月8日",
+    "最大判昭和33年5月28日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2021-chuki",
+   "univ": "立命館",
+   "year": 2021,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-21c_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2021-c.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/共犯",
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "総論/責任（責任能力・故意・錯誤）",
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/横領・背任",
+    "国家的法益/犯人蔵匿・証拠隠滅"
+   ],
+   "topics": [
+    "共同正犯（60条）・教唆（61条）",
+    "共同防衛者の一方が過剰防衛となった場合の罪責",
+    "傷害罪（204条）",
+    "業務上横領（253条）",
+    "逮捕監禁（220条）",
+    "犯人蔵匿（103条）",
+    "業務妨害（233条）・公務執行妨害（95条）"
+   ],
+   "articles": [
+    36,
+    38,
+    60,
+    61,
+    95,
+    103,
+    204,
+    220,
+    233,
+    253,
+    264
+   ],
+   "hanrei": [
+    "最決昭和55年11月13日",
+    "高判平成21年3月12日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2021-koki",
+   "univ": "立命館",
+   "year": 2021,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-21k_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2021-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/未遂・中止犯",
+    "個人的法益/窃盗・強盗",
+    "総論/責任（責任能力・故意・錯誤）",
+    "個人的法益/詐欺・恐喝"
+   ],
+   "topics": [
+    "実行の着手（43条）",
+    "重大な「因果関係の錯誤」の処理",
+    "強盗致死傷（240条）",
+    "詐欺未遂罪の成否"
+   ],
+   "articles": [
+    43,
+    240
+   ],
+   "hanrei": [
+    "最決昭和61年11月18日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2021-honshi",
+   "univ": "慶應",
+   "year": 2021,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/a480331e1002fe3abbdee6ccdb1df637735010343577d69380dc72c8aada76c0",
+   "kaisetsu": "https://www.keio.ac.jp/files/4f12965d32b9f940839fe029e28338874f5608034b292305f4b84d5f932f3e14",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（憲法・刑法）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "個人的法益/横領・背任",
+    "個人的法益/窃盗・強盗",
+    "社会的法益/文書偽造",
+    "総論/共犯"
+   ],
+   "topics": [
+    "正当防衛（36条）",
+    "横領（252条）・業務上横領（253条）",
+    "窃盗（235条）・事後強盗（238条）",
+    "私文書偽造・同行使（159条・161条）",
+    "身分犯と共犯（65条）",
+    "強制わいせつ等致死傷（181条）",
+    "建造物等以外放火（110条）"
+   ],
+   "articles": [
+    36,
+    65,
+    110,
+    159,
+    161,
+    181,
+    199,
+    203,
+    235,
+    238,
+    246,
+    252,
+    253
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kei-2021-tsuishi",
+   "univ": "慶應",
+   "year": 2021,
+   "term": "追試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/b185a83f397aa2ad71550041176b5cbe157a380e2708c39bb629f461c79afd05",
+   "kaisetsu": "https://www.keio.ac.jp/files/fb768707b81713aa90505d34e378bf515c76c03248cc03a20bb505960e6f9788",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（憲法・刑法）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "個人的法益/生命・身体に対する罪",
+    "社会的法益/文書偽造",
+    "社会的法益/放火・失火",
+    "国家的法益/犯人蔵匿・証拠隠滅"
+   ],
+   "topics": [
+    "強盗致死（240条）・事後強盗（238条）",
+    "傷害致死（205条）・殺人（199条）",
+    "現住建造物等放火（108条）",
+    "私文書偽造・同行使（159条・161条）",
+    "犯人蔵匿（103条）"
+   ],
+   "articles": [
+    103,
+    108,
+    159,
+    161,
+    199,
+    205,
+    235,
+    236,
+    238,
+    240
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2020-zenki",
+   "univ": "同志社",
+   "year": 2020,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2020_mondai_keiho.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2020_kaisetsu_keiho.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2020_kaitou_keiho.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/詐欺・恐喝",
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "2項強盗殺人未遂（236条2項・240条・243条）",
+    "殺人（199条）・予備（201条）",
+    "恐喝（249条・250条）",
+    "正当防衛（36条）",
+    "早すぎた結果実現"
+   ],
+   "articles": [
+    36,
+    199,
+    201,
+    203,
+    236,
+    240,
+    243,
+    249,
+    250
+   ],
+   "hanrei": [
+    "最決平成16年3月22日",
+    "最判昭和23年6月12日",
+    "最判昭和35年8月30日",
+    "最決昭和61年11月18日",
+    "最判昭和46年11月16日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2020-koki",
+   "univ": "同志社",
+   "year": 2020,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2020_mondai_keihou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2020_kaisetsu_keihou2.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2020_keihout2.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "rit-2020-zenki",
+   "univ": "立命館",
+   "year": 2020,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-20z_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2020-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "社会的法益/放火・失火",
+    "個人的法益/生命・身体に対する罪",
+    "総論/責任（責任能力・故意・錯誤）",
+    "総論/罪数",
+    "国家的法益/犯人蔵匿・証拠隠滅"
+   ],
+   "topics": [
+    "現住建造物等放火（108条）・非現住建造物等放火（109条）",
+    "延焼（111条）・消火妨害",
+    "嘱託殺人未遂（202条・203条）との罪数関係",
+    "死体損壊（190条）",
+    "証拠隠滅（104条）",
+    "不作為犯の成否"
+   ],
+   "articles": [
+    1,
+    38,
+    45,
+    104,
+    108,
+    109,
+    115,
+    190,
+    199,
+    201,
+    202,
+    203
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2020-chuki",
+   "univ": "立命館",
+   "year": 2020,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-20c_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2020-c.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/詐欺・恐喝",
+    "個人的法益/窃盗・強盗"
+   ],
+   "topics": [
+    "詐欺罪（246条）における処分行為（交付行為）",
+    "窃盗罪（235条）との区別",
+    "実行の着手と危険性"
+   ],
+   "articles": [
+    235,
+    246
+   ],
+   "hanrei": [
+    "最決平成29年12月11日",
+    "最決平成24年11月6日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2020-koki",
+   "univ": "立命館",
+   "year": 2020,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-20k_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2020-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/窃盗・強盗",
+    "総論/共犯",
+    "個人的法益/自由・住居に対する罪"
+   ],
+   "topics": [
+    "同時傷害の特例（207条）",
+    "承継的共同正犯と第2暴行の責任",
+    "事後強盗（238条）",
+    "身分犯と共犯（65条）",
+    "逮捕監禁（220条）"
+   ],
+   "articles": [
+    65,
+    194,
+    207,
+    220,
+    238
+   ],
+   "hanrei": [
+    "最決平成28年3月24日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2020-honshi",
+   "univ": "慶應",
+   "year": 2020,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/2355c2dfc80f27dc03f516a4edefb5c200be27fa303f2e659161f027356afcb7",
+   "kaisetsu": "https://www.keio.ac.jp/files/c71a6c58a861c139aa6f9540eed0aae237bd68f41f433ad3e0cce51d357e19e3",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（憲法・刑法）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/自由・住居に対する罪",
+    "個人的法益/窃盗・強盗",
+    "個人的法益/生命・身体に対する罪",
+    "社会的法益/放火・失火",
+    "総論/未遂・中止犯"
+   ],
+   "topics": [
+    "逮捕監禁致死傷（221条）",
+    "現住建造物等放火（108条）・建造物等以外放火（110条）",
+    "未遂（43条）",
+    "強盗（236条）・事後強盗（238条）・窃盗（235条）",
+    "遺棄（218条・219条）",
+    "住居侵入（130条）",
+    "背任（247条）"
+   ],
+   "articles": [
+    43,
+    103,
+    108,
+    110,
+    130,
+    159,
+    177,
+    208,
+    218,
+    219,
+    221,
+    222,
+    235,
+    236,
+    238,
+    247
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2019-zenki",
+   "univ": "同志社",
+   "year": 2019,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/mondaikeihou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/kaikeihou.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/yoshikeihou.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "総論/共犯",
+    "個人的法益/生命・身体に対する罪"
+   ],
+   "topics": [
+    "強盗致死罪（240条後段）",
+    "強盗（236条）・事後強盗（238条）",
+    "強盗致死罪の共犯",
+    "幇助（62条）",
+    "殺人（199条）・同未遂（203条）"
+   ],
+   "articles": [
+    62,
+    199,
+    203,
+    236,
+    238,
+    240
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2019-koki",
+   "univ": "同志社",
+   "year": 2019,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2019_keihou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2019_keihouk2.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2019_keihout2.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/生命・身体に対する罪",
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "総論/構成要件・因果関係・不作為犯"
+   ],
+   "topics": [
+    "不作為による殺人罪（199条）",
+    "保護責任者遺棄致死（219条）",
+    "量的過剰防衛（36条）と一体的判断・分断的判断"
+   ],
+   "articles": [
+    36,
+    199,
+    219
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2019-zenki",
+   "univ": "立命館",
+   "year": 2019,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-19z_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2019-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/自由・住居に対する罪",
+    "個人的法益/窃盗・強盗"
+   ],
+   "topics": [
+    "住居侵入（130条）",
+    "強制わいせつ（176条）",
+    "強盗（236条）・強盗致死傷（240条）"
+   ],
+   "articles": [
+    130,
+    176,
+    236,
+    240
+   ],
+   "hanrei": [
+    "最決平成24年11月6日",
+    "最大判平成29年11月29日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2019-chuki",
+   "univ": "立命館",
+   "year": 2019,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-19c_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2019-c.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "個人的法益/生命・身体に対する罪",
+    "総論/違法性阻却（正当防衛・緊急避難）"
+   ],
+   "topics": [
+    "窃盗罪（235条）と占有（242条）",
+    "傷害致死（205条）・傷害（204条）",
+    "正当防衛（36条）",
+    "脅迫行為の評価"
+   ],
+   "articles": [
+    36,
+    204,
+    205,
+    235,
+    242
+   ],
+   "hanrei": [
+    "最決平成20年6月25日",
+    "最判昭和44年12月4日",
+    "最判昭和32年11月8日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "rit-2019-koki",
+   "univ": "立命館",
+   "year": 2019,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-19k_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2019-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "個人的法益/生命・身体に対する罪",
+    "個人的法益/盗品等・毀棄",
+    "個人的法益/名誉・信用・業務に対する罪"
+   ],
+   "topics": [
+    "自己の財物の取戻しと窃盗罪（242条）",
+    "強盗（236条）・強盗致死傷（240条）",
+    "暴行（208条）・傷害（204条）",
+    "器物損壊（261条・263条）",
+    "業務妨害（233条）"
+   ],
+   "articles": [
+    204,
+    208,
+    233,
+    235,
+    236,
+    240,
+    242,
+    261,
+    263
+   ],
+   "hanrei": [
+    "最判昭和44年12月4日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2019-honshi",
+   "univ": "慶應",
+   "year": 2019,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/6c15576773e4650fbea21ca2a3192a459b7676610315ed888a442d263241e30d",
+   "kaisetsu": "https://www.keio.ac.jp/files/8f67afa1006f91473cd8e4f952e59f99b7b451703afa4d2d261f04791c8d353b",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（憲法・刑法）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "総論/違法性阻却（正当防衛・緊急避難）"
+   ],
+   "topics": [
+    "窃盗罪における占有",
+    "自招侵害と正当防衛",
+    "判例の考え方を踏まえた事実の抽出と評価"
+   ],
+   "articles": [],
+   "hanrei": [
+    "最判昭和32年11月8日",
+    "最決平成16年8月25日",
+    "最決平成20年5月20日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2018-zenki",
+   "univ": "同志社",
+   "year": 2018,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2018_keihou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2018_keihou_k.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2018_keihout.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "社会的法益/放火・失火",
+    "総論/未遂・中止犯",
+    "総論/共犯"
+   ],
+   "topics": [
+    "現住建造物等放火（108条）の実行の着手",
+    "中止犯（43条ただし書）",
+    "間接正犯",
+    "共同正犯（60条）"
+   ],
+   "articles": [
+    43,
+    60,
+    108,
+    112
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2018-koki",
+   "univ": "同志社",
+   "year": 2018,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2018_keihou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2018_keihouk2.pdf",
+   "kaitou": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaitou/2018_keihout2.pdf",
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": true
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "個人的法益/自由・住居に対する罪",
+    "総論/共犯",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "住居侵入（130条）",
+    "強盗罪・2項強盗（236条）",
+    "強盗致傷（240条）",
+    "共謀の射程",
+    "責任年齢（41条）"
+   ],
+   "articles": [
+    41,
+    130,
+    236,
+    240
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2018-zenki",
+   "univ": "立命館",
+   "year": 2018,
+   "term": "前期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-18z_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2018-z.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "個人的法益/詐欺・恐喝",
+    "個人的法益/横領・背任",
+    "社会的法益/文書偽造",
+    "個人的法益/自由・住居に対する罪"
+   ],
+   "topics": [
+    "強制による緊急避難（37条1項本文）",
+    "違法性阻却と第三者の阻止行為",
+    "詐欺罪（246条）・背任罪（247条）",
+    "住居侵入（130条）",
+    "私文書偽造・同行使（159条・161条）"
+   ],
+   "articles": [
+    37,
+    130,
+    159,
+    161,
+    246,
+    247
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2018-chuki",
+   "univ": "立命館",
+   "year": 2018,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-18c_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2018-c2.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/横領・背任",
+    "個人的法益/窃盗・強盗",
+    "個人的法益/盗品等・毀棄"
+   ],
+   "topics": [
+    "占有離脱物横領（254条）",
+    "窃盗罪（235条）",
+    "器物損壊（261条）"
+   ],
+   "articles": [
+    235,
+    254,
+    261
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "rit-2018-koki",
+   "univ": "立命館",
+   "year": 2018,
+   "term": "後期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-18k_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2018-k.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/横領・背任",
+    "社会的法益/文書偽造",
+    "個人的法益/詐欺・恐喝"
+   ],
+   "topics": [
+    "占有離脱物横領（254条）",
+    "私文書偽造・同行使（159条・161条）",
+    "詐欺罪（246条）"
+   ],
+   "articles": [
+    159,
+    161,
+    246,
+    254
+   ],
+   "hanrei": [
+    "最決平成14年2月8日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "kei-2018-honshi",
+   "univ": "慶應",
+   "year": 2018,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/45ddb71cedeeb32490b7835dc1f5fef17ce8c296c17eadeea9e322c1ba1ccdb9",
+   "kaisetsu": "https://www.keio.ac.jp/files/7342658feab6980cfebfe65de494a43652a77b7472735a2d4dc63681aed08797",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（憲法・刑法）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": "xfo",
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "個人的法益/生命・身体に対する罪",
+    "総論/共犯"
+   ],
+   "topics": [
+    "死者の占有と窃盗罪",
+    "窃盗未遂罪の成立の余地",
+    "事後強盗（238条）における暴行",
+    "同時傷害の特例（207条）と死亡結果の帰責"
+   ],
+   "articles": [
+    207,
+    235,
+    238
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2017-zenki",
+   "univ": "同志社",
+   "year": 2017,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2017_keihou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2017_keihouk.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/詐欺・恐喝",
+    "総論/共犯"
+   ],
+   "topics": [
+    "恐喝罪（249条）と権利行使",
+    "共同正犯（60条）",
+    "幇助（62条）"
+   ],
+   "articles": [
+    60,
+    62,
+    249
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2017-koki",
+   "univ": "同志社",
+   "year": 2017,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2017_keihou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2017_keihouk2.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "個人的法益/窃盗・強盗",
+    "総論/構成要件・因果関係・不作為犯",
+    "総論/共犯"
+   ],
+   "topics": [
+    "強盗殺人罪（240条後段）",
+    "強盗罪（236条）",
+    "因果関係の有無",
+    "共同正犯（60条）"
+   ],
+   "articles": [
+    60,
+    236,
+    240,
+    243
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "kei-2017-honshi",
+   "univ": "慶應",
+   "year": 2017,
+   "term": "本試験",
+   "course": "法学既修者コース",
+   "mondai": "https://www.keio.ac.jp/files/ea58e7340d7c7966883421fff4ef3ce8de8d9bfa2f13f7a4e4ab4686765d3f6a",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨",
+   "kaisetsuNote": "全科目まとめの出題趣旨。刑法の節を参照",
+   "mondaiNote": "合冊の試験問題（科目名の記載なし）。刑法の問題を参照",
+   "embed": {
+    "mondai": false,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": "xfo",
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [
+    "総論/違法性阻却（正当防衛・緊急避難）",
+    "総論/責任（責任能力・故意・錯誤）",
+    "個人的法益/生命・身体に対する罪",
+    "総論/構成要件・因果関係・不作為犯"
+   ],
+   "topics": [
+    "誤想防衛（急迫不正の侵害の誤認）",
+    "傷害致死罪（205条）",
+    "介在事情（搬送の遅れ）と因果関係"
+   ],
+   "articles": [
+    36,
+    204,
+    205
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2016-zenki",
+   "univ": "同志社",
+   "year": 2016,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2016_keihou.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2016_keihouk.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "社会的法益/文書偽造",
+    "個人的法益/生命・身体に対する罪",
+    "総論/責任（責任能力・故意・錯誤）"
+   ],
+   "topics": [
+    "文書偽造における「偽造」の概念",
+    "業務上過失致傷（211条）と結果回避可能性",
+    "傷害罪（204条）",
+    "錯誤と故意の阻却"
+   ],
+   "articles": [
+    160,
+    204,
+    211
+   ],
+   "hanrei": [
+    "最決平成19年3月26日"
+   ],
+   "classified": true
+  },
+  {
+   "id": "dos-2016-koki",
+   "univ": "同志社",
+   "year": 2016,
+   "term": "後期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2016_keihou2.pdf",
+   "kaisetsu": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/kaisetsu/2016_keihouk2.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": true,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "解説",
+   "units": [
+    "社会的法益/文書偽造",
+    "総論/未遂・中止犯",
+    "総論/共犯"
+   ],
+   "topics": [
+    "私文書偽造（159条1項）",
+    "偽造私文書行使（161条）",
+    "中止犯の効果",
+    "共犯の中止"
+   ],
+   "articles": [
+    159,
+    161
+   ],
+   "hanrei": [],
+   "classified": true
+  },
+  {
+   "id": "dos-2013-tennyu",
+   "univ": "同志社",
+   "year": 2013,
+   "term": "転入学",
+   "course": "転入学試験（法学未修者2年次に転入学の場合）",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2013_keihou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2010-zenki",
+   "univ": "同志社",
+   "year": 2010,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2010_keihou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2009-zenki",
+   "univ": "同志社",
+   "year": 2009,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2009_keihou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2008-zenki",
+   "univ": "同志社",
+   "year": 2008,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2008_keihou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2007-zenki",
+   "univ": "同志社",
+   "year": 2007,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2007_keihou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2006-zenki",
+   "univ": "同志社",
+   "year": 2006,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2006_keihou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  },
+  {
+   "id": "dos-2005-zenki",
+   "univ": "同志社",
+   "year": 2005,
+   "term": "前期",
+   "course": "法学既修者",
+   "mondai": "https://law-school.doshisha.ac.jp/wp-content/themes/du_theme/archive/02_entrance_ex/pdf/questions/2005_keihou.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "embed": {
+    "mondai": true,
+    "kaisetsu": false,
+    "kaitou": false
+   },
+   "embedWhy": {
+    "mondai": null,
+    "kaisetsu": null,
+    "kaitou": null
+   },
+   "basis": "問題",
+   "units": [],
+   "topics": [],
+   "articles": [],
+   "hanrei": [],
+   "classified": false
+  }
+ ]
+}
