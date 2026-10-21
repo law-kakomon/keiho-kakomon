@@ -1,6 +1,7 @@
 {
  "subject": "刑法",
  "fetched": {
+  "京大": "https://lawschool.law.kyoto-u.ac.jp/nyushi/mondai/",
   "同志社": "https://law-school.doshisha.ac.jp/entrance_ex/question/",
   "立命館": "https://www.ritsumei.ac.jp/lawschool/admission/past.html/",
   "慶應": "https://www.ls.keio.ac.jp/nyushi/examination.html",
@@ -13,6 +14,10 @@
    "reason": "http"
   },
   "law-school.doshisha.ac.jp": {
+   "embeddable": true,
+   "reason": null
+  },
+  "lawschool.law.kyoto-u.ac.jp": {
    "embeddable": true,
    "reason": null
   },
@@ -34,6 +39,61 @@
   }
  },
  "items": [
+  {
+   "id": "kyo-2026-ronjutsu",
+   "univ": "京大",
+   "year": 2026,
+   "term": "論述式",
+   "course": "法学既修者",
+   "mondai": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2026/03/mondai_8keiho.pdf",
+   "kaisetsu": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2026/03/shushikijyun_8keiho.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨・採点基準"
+  },
+  {
+   "id": "kyo-2025-ronjutsu",
+   "univ": "京大",
+   "year": 2025,
+   "term": "論述式",
+   "course": "法学既修者",
+   "mondai": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2025/01/mondai_7keiho.pdf",
+   "kaisetsu": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2025/01/shushikijyun_7keiho.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨・採点基準"
+  },
+  {
+   "id": "kyo-2024-ronjutsu",
+   "univ": "京大",
+   "year": 2024,
+   "term": "論述式",
+   "course": "法学既修者",
+   "mondai": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2024/01/mondai_6keiho.pdf",
+   "kaisetsu": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2024/01/shushikijyun_6keiho.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨・採点基準"
+  },
+  {
+   "id": "kyo-2023-ronjutsu",
+   "univ": "京大",
+   "year": 2023,
+   "term": "論述式",
+   "course": "法学既修者",
+   "mondai": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2023/01/mondai_5keiho.pdf",
+   "kaisetsu": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2023/01/shushikijyun_5keiho.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨・採点基準"
+  },
+  {
+   "id": "kyo-2022-ronjutsu",
+   "univ": "京大",
+   "year": 2022,
+   "term": "論述式",
+   "course": "法学既修者",
+   "mondai": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2022/01/mondai_4keiho.pdf",
+   "kaisetsu": "https://lawschool.law.kyoto-u.ac.jp/cms/uploads/2022/01/shushikijun_4keiho.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "出題趣旨・採点基準"
+  },
   {
    "id": "dos-2027-zenki",
    "univ": "同志社",
@@ -689,6 +749,18 @@
    "kaisetsuNote": "全科目まとめの講評。刑法の節を参照"
   },
   {
+   "id": "rit-2027-chuki",
+   "univ": "立命館",
+   "year": 2027,
+   "term": "中期",
+   "course": "法学既修者（B方式）",
+   "mondai": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-27c_keiho.pdf",
+   "kaisetsu": "https://www.ritsumei.ac.jp/lawschool/assets/file/admission/past-comment2027-c.pdf",
+   "kaitou": null,
+   "kaisetsuLabel": "入試講評",
+   "kaisetsuNote": "全科目まとめの講評。刑法の節を参照"
+  },
+  {
    "id": "rit-2027-zenki",
    "univ": "立命館",
    "year": 2027,
@@ -699,6 +771,19 @@
    "kaitou": null,
    "kaisetsuLabel": "入試講評",
    "kaisetsuNote": "全科目まとめの講評。刑法の節を参照"
+  },
+  {
+   "id": "kgu-2027-a",
+   "univ": "関学",
+   "year": 2027,
+   "term": "A日程",
+   "course": "一般入試（法学既修者）",
+   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/2027A_keho.pdf",
+   "kaisetsu": null,
+   "kaitou": null,
+   "kaisetsuLabel": "解説",
+   "combined": true,
+   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの"
   },
   {
    "id": "kgu-2026-a",
@@ -850,58 +935,6 @@
    "term": "C日程",
    "course": "一般入試（法学既修者）",
    "mondai": "https://www.kwansei.ac.jp/lawschool/assets/Criminal_Law_Issues_2023C.pdf",
-   "kaisetsu": null,
-   "kaitou": null,
-   "kaisetsuLabel": "解説",
-   "combined": true,
-   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの"
-  },
-  {
-   "id": "kgu-2022-a",
-   "univ": "関学",
-   "year": 2022,
-   "term": "A日程",
-   "course": "一般入試（法学既修者）",
-   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/Criminal_Law_Issues_2022A.pdf",
-   "kaisetsu": null,
-   "kaitou": null,
-   "kaisetsuLabel": "解説",
-   "combined": true,
-   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの"
-  },
-  {
-   "id": "kgu-2022-b",
-   "univ": "関学",
-   "year": 2022,
-   "term": "B日程",
-   "course": "一般入試（法学既修者）",
-   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/Criminal_Law_Issues_2022B.pdf",
-   "kaisetsu": null,
-   "kaitou": null,
-   "kaisetsuLabel": "解説",
-   "combined": true,
-   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの"
-  },
-  {
-   "id": "kgu-2022-c",
-   "univ": "関学",
-   "year": 2022,
-   "term": "C日程",
-   "course": "一般入試（法学既修者）",
-   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/Criminal_Law_Issues_2022C.pdf",
-   "kaisetsu": null,
-   "kaitou": null,
-   "kaisetsuLabel": "解説",
-   "combined": true,
-   "mondaiNote": "問題と解説（解答例・出題の意図・講評）が1つにまとまったもの"
-  },
-  {
-   "id": "kgu-2022-d",
-   "univ": "関学",
-   "year": 2022,
-   "term": "D日程",
-   "course": "一般入試（法学既修者）",
-   "mondai": "https://www.kwansei.ac.jp/lawschool/assets/Criminal%20Law%20Q%26A%202022D.pdf",
    "kaisetsu": null,
    "kaitou": null,
    "kaisetsuLabel": "解説",
